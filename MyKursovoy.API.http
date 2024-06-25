@@ -1,0 +1,6 @@
+@MyKursovoy.API_HostAddress = http://localhost:5070
+
+GET {{MyKursovoy.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
